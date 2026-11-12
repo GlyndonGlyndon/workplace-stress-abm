@@ -1,0 +1,17 @@
+Scenario,lag_weeks,corr_firm_idio,corr_macro
+Baseline,0,0.215,0.556
+Baseline,4,0.24,0.53
+Baseline,8,0.254,0.472
+Baseline,13,0.248,0.38
+Market shock,0,0.668,0.699
+Market shock,4,0.742,0.701
+Market shock,8,0.752,0.659
+Market shock,13,0.682,0.552
+Shock + high contagion,0,0.743,0.712
+Shock + high contagion,4,0.782,0.669
+Shock + high contagion,8,0.729,0.585
+Shock + high contagion,13,0.563,0.452
+Shock + wellbeing program,0,0.308,0.601
+Shock + wellbeing program,4,0.267,0.604
+Shock + wellbeing program,8,0.2,0.551
+Shock + wellbeing program,13,0.114,0.39

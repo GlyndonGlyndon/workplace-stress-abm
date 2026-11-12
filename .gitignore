@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Large regenerable outputs (run run.py / experiments.py to recreate)
+results/scenario_timeseries.csv
+results/single_run_agents.csv
